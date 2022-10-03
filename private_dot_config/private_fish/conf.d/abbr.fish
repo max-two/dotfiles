@@ -11,6 +11,9 @@ abbr v 'nvim'
 abbr g 'git'
 abbr dot 'chezmoi'
 
+# Locations
+abbr dover 'cd $DOVER'
+
 # Docker
 abbr d 'docker'
 abbr dc 'docker-compose'
