@@ -1,6 +1,2 @@
 [cd]
     command = "fish"
-
-[git]
-    autoCommit = true
-    autoPush = true
