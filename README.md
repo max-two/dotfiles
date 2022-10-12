@@ -5,7 +5,7 @@ This repo contains all my dotfiles for development setup.  It is managed using [
 # Getting Started
 
 1. Install Homebrew
-2. Use Homebrew to install fish, git, neovim, ruby, starship, kitty (cask), fisher, and helix
+2. Use Homebrew to install fish, git, neovim, ruby, starship, kitty (cask), fisher, and helix, jesseduffield/lazygit/lazygit
 3. Make `~/code` and `~/lib` directories
 4. Install nerd fonts 
 ```bash
