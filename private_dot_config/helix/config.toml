@@ -3,6 +3,8 @@ theme = "rose_pine_moon"
 [editor]
 cursorline = true
 color-modes = true
+auto-save = true
+bufferline = "multiple"
 
 [editor.indent-guides]
 render = true
