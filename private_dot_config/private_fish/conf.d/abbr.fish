@@ -10,9 +10,12 @@ abbr lst 'colorls --tree --gs --sort-dirs --almost-all'
 abbr v 'nvim'
 abbr g 'git'
 abbr dot 'chezmoi'
+abbr p 'pnpm'
 
 # Locations
-abbr dover 'cd $DOVER'
+abbr dv 'cd $DOVER'
+abbr code 'cd ~/code'
+abbr rabbr 'source ~/.config/fish/conf.d/abbr.fish'
 
 # Docker
 abbr d 'docker'
